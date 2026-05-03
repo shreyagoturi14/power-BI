@@ -6,7 +6,6 @@ This Power BI project presents an interactive **E-Commerce Sales Dashboard** des
 The dashboard helps in understanding business growth and identifying key areas for improvement through clear visual insights.
 
 ---
-
 ## Key Features
 
 - Total Sales Amount Analysis
