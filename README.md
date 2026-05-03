@@ -47,7 +47,6 @@ Through these projects, I improved my understanding of:
 ---
 
 ## Purpose of This Repository
-
 The purpose of this repository is to showcase my practical learning in Power BI and Data Analytics by building impactful dashboard projects with real business use cases.
 
 ---
@@ -57,7 +56,6 @@ The purpose of this repository is to showcase my practical learning in Power BI 
 **Shreya G**
 
 Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Learner
-
 ---
 ## Repository Goal
 
