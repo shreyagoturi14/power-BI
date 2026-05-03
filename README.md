@@ -45,12 +45,10 @@ Through these projects, I improved my understanding of:
 - Presenting data for better decision-making
 
 ---
-
 ## Purpose of This Repository
 The purpose of this repository is to showcase my practical learning in Power BI and Data Analytics by building impactful dashboard projects with real business use cases.
 
 ---
-
 ## Author
 
 **Shreya G**
